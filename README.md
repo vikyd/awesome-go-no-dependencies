@@ -7,6 +7,12 @@ List some Golang modules without any dependencies.
 [TOC]
 
 <!--ts-->
+   * [Awesome Go No Dependencies](#awesome-go-no-dependencies)
+   * [Contents](#contents)
+   * [Main Program](#main-program)
+   * [Library Program](#library-program)
+
+
 <!--te-->
 
 # Main Program
