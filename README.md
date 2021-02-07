@@ -13,7 +13,7 @@ List some Golang modules without any dependencies.
 
 Main package.
 
-- [gomod-main](github.com/vikyd/gomod-main) - Simple Golang main program.
+- [gomod-main](https://github.com/vikyd/gomod-main) - Simple Golang main program.
 
 # Library Program
 
